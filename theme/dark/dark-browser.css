@@ -149,3 +149,9 @@ a.link-gray-dark,
 .js-diff-load-button-container svg path {
   fill: var(--border-color) !important;
 }
+
+.discussion-item .renamed-was,
+.discussion-item .renamed-is {
+  font-weight: 600;
+  color: var(--border-color) !important;
+}
